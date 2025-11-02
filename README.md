@@ -3,3 +3,4 @@
 * Andrés Felipe Salazar Ramos 94539240 Ingeniería de Sistemas
 * Samuel Esteban Contreras 1000540401 Ingeniería de Sistemas
 * Sofia Esther Vertel Benitez 1003005595 Ingeniería Industrial
+# Link del Video:
